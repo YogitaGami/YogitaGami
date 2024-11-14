@@ -31,6 +31,6 @@ A data-driven platform to assist business owners in selecting optimal business l
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogitaGami&layout=compact&theme=radical)
 
 ### 🤝 Connect with Me
-- **LinkedIn**: [Yogita Gami LinkedIn](www.linkedin.com/in/yogita-gami257)
+- **LinkedIn**: [Yogita Gami](https://www.linkedin.com/in/yogita-gami257)
 - **Email**: [yogitagamimak@gmail.com](mailto:yogitagamimak@gmail.com)
 
