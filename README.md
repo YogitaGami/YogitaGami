@@ -20,7 +20,7 @@ A Patreon-like platform where creators can register and receive support from the
 #### [2. Business Location Recommendation System](https://github.com/YogitaGami/Business-Location-Recommendation-System)
 A data-driven platform to assist business owners in selecting optimal business locations based on analysis and visualization. Built with **Python** and **Django**.
 - **Features**: Data collection via web scraping, geolocation with Geopy, data enrichment using the Foursquare API, K-means clustering for analysis, and interactive mapping with Folium.
-- **Technologies**: Python, Django, Pandas, Folium, Geopy, Foursquare API.
+- **Technologies**: Python, Django, Pandas, Folium, Geopy, Foursquare API, MySQL.
 
 ### 🌱 Currently Learning
 - Advanced React and Next.js features
